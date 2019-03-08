@@ -1,8 +1,8 @@
 # The Ruby Syslog Server
 
- Author:: Jonathan Gnagy (mailto:jonathan.gnagy@gmail.com)
- Copyright:: Copyright (c) 2010
- License:: Distributed under the GPLv3 ( http://www.gnu.org/licenses/gpl.html )
+ * Author:: Jonathan Gnagy (mailto:jonathan.gnagy@gmail.com)
+ * Copyright:: Copyright (c) 2010
+ * License:: Distributed under the GPLv3 ( http://www.gnu.org/licenses/gpl.html )
 
 ## Usage:
  ```ruby
